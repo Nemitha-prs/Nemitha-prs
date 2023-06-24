@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nemitha Prabashwara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nemitha-prs&label=Profile%20views&color=0e75b6&style=flat" alt="nemitha-prs" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 🌱 I’m **17 years old**
