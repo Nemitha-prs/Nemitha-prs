@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 🌱 I’m **17 years old**
+- 🌱 **17 years old**
 
-- 👯 i'm interested in **software developing**
+- 👯 interested in**software developing**
 <b><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
