@@ -1,4 +1,4 @@
-<p><img align="center" height = "250" width = "1050"src="https://secureservercdn.net/198.71.233.68/f11.7cd.myftpupload.com/wp-content/uploads/2021/01/AdobeStock_250238569-1024x271.jpeg" /></p>
+<p><img align="center" height = "250" width = "1050"src="[https://secureservercdn.net/198.71.233.68/f11.7cd.myftpupload.com/wp-content/uploads/2021/01/AdobeStock_250238569-1024x271.jpeg](https://i.pinimg.com/1200x/9c/7b/e4/9c7be43979a736a8695361a544630b97.jpg)" /></p>
 <h1 align="center">Hi 👋, I'm Nemitha Prabashwara </h1>
 <br>
 
