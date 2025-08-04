@@ -1,13 +1,8 @@
-<p><img align="center" height = "250" width = "1050"src="[[https://secureservercdn.net/198.71.233.68/f11.7cd.myftpupload.com/wp-content/uploads/2021/01/AdobeStock_250238569-1024x271.jpeg](https://i.pinimg.com/1200x/9c/7b/e4/9c7be43979a736a8695361a544630b97.jpg)](https://images.app.goo.gl/F5LFks7hmLXbbGfX9)" /></p>
 <h1 align="center">Hi 👋, I'm Nemitha Prabashwara </h1>
 <br>
 
-- 🌱 **17 years old**
-
-- 👯 interested in**software developing**
-
-- 📔 **Currently doing A/l s**
-
+- 🌱 **19 years old**
+  
 - 🏠 Live in **Sri Lanka**
 <hr>
 <h3 align="left">Connect with me:</h3>
