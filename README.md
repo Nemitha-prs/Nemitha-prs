@@ -1,28 +1,22 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.svg" alt="Typing SVG" />
-</p>
-
-<h1 align="center">✨ Hi, I'm <span style="color:#00FFCC;">Nemitha Prabashwara</span> ✨</h1>  
-<h3 align="center">🌍 Developer | Learner | Tech Enthusiast 🚀</h3>  
+<h1 align="center">Hi 👋, I'm Nemitha Prabashwara</h1>  
+<h3 align="center">A passionate learner & developer from Sri Lanka 🇱🇰</h3>  
 
 ---
 
 ### 👨‍💻 About Me  
 - 🌱 19 years old  
-- 🏠 Based in **Sri Lanka**  
-- 💡 Passionate about **Python, IoT (Arduino), and Web Development**  
-- 🎨 Love designing with **Photoshop**  
+- 🏠 Living in **Sri Lanka**  
+- 🚀 Exploring **Python, C, JavaScript, HTML, Arduino, and Photoshop**  
 
 ---
 
 ### 📫 Connect with Me  
 <p align="center">
   <a href="https://instagram.com/nemitha_prs" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:nemithaprs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>  
 
@@ -30,26 +24,27 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,arduino,ps" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="50" height="50"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="photoshop" width="50" height="50"/>  
 </p>  
 
 ---
 
-### 🌌 GitHub Stats  
-<div align="center">
-  
-  ![Nemitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemitha-prs&show_icons=true&theme=radical&hide_border=true)  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=nemitha-prs&theme=radical&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemitha-prs&layout=compact&theme=radical&hide_border=true)  
-
-</div>  
-
----
-
-### 🎇 Fun Touch  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="80%">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nemitha-prs&show_icons=true&theme=tokyonight" alt="nemitha-prs stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nemitha-prs&theme=tokyonight" alt="nemitha-prs streak"/>
 </p>  
+
+<p align="center">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemitha-prs&layout=compact&theme=tokyonight" alt="nemitha-prs top languages"/>
+</p>  
+
+---
 
 <h4 align="center">✨ Always learning, always building 🚀</h4>  
 
