@@ -1,27 +1,54 @@
-<h1 align="center">Hi 👋, I'm Nemitha Prabashwara </h1>
-<br>
-
-- 🌱 **19 years old**
-  
-- 🏠 Live in **Sri Lanka**
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nemitha_prs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nemitha_prs" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsLZhGgJpwwVJNbMSPDGgkqNSLqskVzvjKLnvqznbWfsrmxdRjCrnBlXXBflSXXswWVtL" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="nemitha_prs" height="33" width="33" /></a> 
+<!-- Header Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Nemitha+Prabashwara;Python+%7C+IoT+%7C+Web+Dev;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
-<hr>
-<h3 align="left">Languages and Tool:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-shiny-icon-svg-wikimedia-commons-11.png" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="40" height="40"/> </a>
-  
- </a> </p><br><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<hr>
-<h3 align="left">Stats:</h3>
-<p><img align="right" height = "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemitha-prs&show_icons=true&locale=en&layout=compact" alt="nemitha-prs" /></p>
 
-<p><img align="center" height  ="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nemitha-prs&" alt="nemitha-prs" /></p>
-<hr>
+---
 
+## 👨‍💻 About Me
+- 🌱 19 years old  
+- 🏠 From **Sri Lanka**  
+- 💡 Passionate about **Python, IoT (Arduino), and Creative UI**  
+- ✨ Love building **useful tools** & exploring **new tech**  
 
-<!-- Code Owner  : Nemitha Prabashwara -->
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/nemitha_prs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:nemithaprs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,arduino,ps" height="50" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nemitha-prs&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=nemitha-prs&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemitha-prs&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif"/>
+</p>
+
+---
+
+<h3 align="center">⚡ Always learning, always building 🚀</h3>
