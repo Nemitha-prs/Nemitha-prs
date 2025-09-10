@@ -1,27 +1,51 @@
-<h1 align="center">Hi 👋, I'm Nemitha Prabashwara </h1>
-<br>
+<h1 align="center">Hi 👋, I'm Nemitha Prabashwara</h1>  
+<h3 align="center">A passionate learner & developer from Sri Lanka 🇱🇰</h3>  
 
-- 🌱 **19 years old**
-  
-- 🏠 Live in **Sri Lanka**
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nemitha_prs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nemitha_prs" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsLZhGgJpwwVJNbMSPDGgkqNSLqskVzvjKLnvqznbWfsrmxdRjCrnBlXXBflSXXswWVtL" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="nemitha_prs" height="33" width="33" /></a> 
-</p>
-<hr>
-<h3 align="left">Languages and Tool:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-shiny-icon-svg-wikimedia-commons-11.png" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="40" height="40"/> </a>
-  
- </a> </p><br><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<hr>
-<h3 align="left">Stats:</h3>
-<p><img align="right" height = "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemitha-prs&show_icons=true&locale=en&layout=compact" alt="nemitha-prs" /></p>
+---
 
-<p><img align="center" height  ="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nemitha-prs&" alt="nemitha-prs" /></p>
-<hr>
+### 👨‍💻 About Me  
+- 🌱 19 years old  
+- 🏠 Living in **Sri Lanka**  
+- 🚀 Exploring **Python, C, JavaScript, HTML, Arduino, and Photoshop**  
 
+---
 
-<!-- Code Owner  : Nemitha Prabashwara -->
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://instagram.com/nemitha_prs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:nemithaprs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>  
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="50" height="50"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="photoshop" width="50" height="50"/>  
+</p>  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nemitha-prs&show_icons=true&theme=tokyonight" alt="nemitha-prs stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nemitha-prs&theme=tokyonight" alt="nemitha-prs streak"/>
+</p>  
+
+<p align="center">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemitha-prs&layout=compact&theme=tokyonight" alt="nemitha-prs top languages"/>
+</p>  
+
+---
+
+<h4 align="center">✨ Always learning, always building 🚀</h4>  
+
+<!-- Profile Owner: Nemitha Prabashwara -->
