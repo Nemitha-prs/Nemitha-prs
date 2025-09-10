@@ -1,59 +1,27 @@
-<h1 align="center">Hi 👋, I'm Nemitha Prabashwara</h1>
-<p align="center"><em>Python developer • IoT tinkerer • UI enthusiast</em></p>
+<h1 align="center">Hi 👋, I'm Nemitha Prabashwara </h1>
+<br>
 
-<div align="center">
-  <!-- Badges -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Email" src="https://img.shields.io/badge/Email-nemithaprs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@nemitha_prs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</div>
-
----
-
-## 🔎 About
-A passionate, self-taught developer from **Sri Lanka**, focused on making clean, educational tooling. I build small desktop apps, IoT projects and UI prototypes — with an emphasis on clarity, usability and learning.
-
----
-
-## ✨ What I build / What this project can do
-- **Symptom Checker** — suggests possible conditions from typed symptoms (keyword + fuzzy matching).  
-- **BMI Calculator** — computes BMI and returns a health classification.  
-- **Calorie Counter** — quick lookup of calories for common foods.  
-
-> ⚠️ This tool is educational only and **not** a substitute for professional medical advice.
-
----
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,arduino,ps" alt="skills" />
+- 🌱 **19 years old**
+  
+- 🏠 Live in **Sri Lanka**
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/nemitha_prs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nemitha_prs" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsLZhGgJpwwVJNbMSPDGgkqNSLqskVzvjKLnvqznbWfsrmxdRjCrnBlXXBflSXXswWVtL" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="nemitha_prs" height="33" width="33" /></a> 
 </p>
+<hr>
+<h3 align="left">Languages and Tool:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-file-html-shiny-icon-svg-wikimedia-commons-11.png" alt="HTML" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="40" height="40"/> </a>
+  
+ </a> </p><br><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<hr>
+<h3 align="left">Stats:</h3>
+<p><img align="right" height = "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemitha-prs&show_icons=true&locale=en&layout=compact" alt="nemitha-prs" /></p>
 
----
+<p><img align="center" height  ="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nemitha-prs&" alt="nemitha-prs" /></p>
+<hr>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemitha-prs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nemitha-prs&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemitha-prs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## 📂 Featured Project
-**Smart Health Assistant** — a desktop app (CustomTkinter) that includes:
-- Symptom Checker (fuzzy + keyword matching)  
-- BMI Calculator  
-- Calorie Counter
-
-**Quick start**
-```bash
-git clone https://github.com/yourusername/smart-health-assistant-v2.git
-cd smart-health-assistant-v2
-pip install -r requirements.txt   # or: pip install customtkinter pillow
-python app.py
+<!-- Code Owner  : Nemitha Prabashwara -->
